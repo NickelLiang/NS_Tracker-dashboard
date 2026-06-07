@@ -1,0 +1,1371 @@
+{
+  "meta": {
+    "generated": "2026-06-07 11:13 UTC",
+    "window_start": "2024-12-02",
+    "window_end": "2026-05-31",
+    "n_services": 54822,
+    "n_weekday_morning_hsl": 5676,
+    "attribution": "Punctuality data: Rijden de Treinen (CC-BY 4.0). Weather: KNMI. Live: NS API.",
+    "ontime_threshold": 5.0,
+    "target_arrival": "09:00",
+    "target_arrival_soft": "09:15",
+    "user_slots": [
+      "07:11",
+      "07:21",
+      "07:41",
+      "07:51",
+      "08:11",
+      "08:21",
+      "08:41",
+      "08:51"
+    ]
+  },
+  "slots": [
+    {
+      "n": 356,
+      "denom": 356,
+      "served_pct": 91.6,
+      "no_show_pct": 8.4,
+      "complete_cancel_pct": 5.6,
+      "good_trip_pct": 86.5,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 0.8,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 2.0,
+      "ontime_pct": 94.5,
+      "severe_pct": 1.2,
+      "p_by_0900": 91.6,
+      "p_by_0915": 91.6,
+      "median_actual_arr": "06:45",
+      "slot": "06:11",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1821,
+        301821
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "06:44",
+      "travel_min": 33.0
+    },
+    {
+      "n": 339,
+      "denom": 339,
+      "served_pct": 89.7,
+      "no_show_pct": 10.3,
+      "complete_cancel_pct": 8.8,
+      "good_trip_pct": 81.1,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.6,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 90.5,
+      "severe_pct": 2.3,
+      "p_by_0900": 89.7,
+      "p_by_0915": 89.7,
+      "median_actual_arr": "06:54",
+      "slot": "06:21",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2415,
+        9715,
+        302415
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "06:54",
+      "travel_min": 33.0
+    },
+    {
+      "n": 361,
+      "denom": 361,
+      "served_pct": 88.1,
+      "no_show_pct": 11.9,
+      "complete_cancel_pct": 6.6,
+      "good_trip_pct": 82.5,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.3,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 3.0,
+      "ontime_pct": 93.7,
+      "severe_pct": 0.6,
+      "p_by_0900": 88.1,
+      "p_by_0915": 88.1,
+      "median_actual_arr": "07:15",
+      "slot": "06:41",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1823,
+        301823
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "07:14",
+      "travel_min": 33.0
+    },
+    {
+      "n": 315,
+      "denom": 315,
+      "served_pct": 90.5,
+      "no_show_pct": 9.5,
+      "complete_cancel_pct": 8.9,
+      "good_trip_pct": 83.8,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.8,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 92.6,
+      "severe_pct": 2.8,
+      "p_by_0900": 90.5,
+      "p_by_0915": 90.5,
+      "median_actual_arr": "07:25",
+      "slot": "06:51",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2417,
+        19517
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "07:24",
+      "travel_min": 33.0
+    },
+    {
+      "n": 379,
+      "denom": 379,
+      "served_pct": 87.3,
+      "no_show_pct": 12.7,
+      "complete_cancel_pct": 4.2,
+      "good_trip_pct": 72.6,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 2.5,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 6.0,
+      "ontime_pct": 83.1,
+      "severe_pct": 2.7,
+      "p_by_0900": 87.3,
+      "p_by_0915": 87.3,
+      "median_actual_arr": "07:46",
+      "slot": "07:11",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1825,
+        301825,
+        341825
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "07:44",
+      "travel_min": 33.0
+    },
+    {
+      "n": 340,
+      "denom": 340,
+      "served_pct": 87.9,
+      "no_show_pct": 12.1,
+      "complete_cancel_pct": 11.8,
+      "good_trip_pct": 80.6,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.8,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 91.6,
+      "severe_pct": 2.3,
+      "p_by_0900": 87.9,
+      "p_by_0915": 87.9,
+      "median_actual_arr": "07:55",
+      "slot": "07:21",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2419,
+        9719
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "07:54",
+      "travel_min": 33.0
+    },
+    {
+      "n": 375,
+      "denom": 375,
+      "served_pct": 87.2,
+      "no_show_pct": 12.8,
+      "complete_cancel_pct": 5.3,
+      "good_trip_pct": 78.9,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.9,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 90.5,
+      "severe_pct": 2.8,
+      "p_by_0900": 87.2,
+      "p_by_0915": 87.2,
+      "median_actual_arr": "08:15",
+      "slot": "07:41",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1827,
+        301827
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "08:14",
+      "travel_min": 33.0
+    },
+    {
+      "n": 339,
+      "denom": 339,
+      "served_pct": 85.5,
+      "no_show_pct": 14.5,
+      "complete_cancel_pct": 12.1,
+      "good_trip_pct": 75.8,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 2.3,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 6.0,
+      "ontime_pct": 88.6,
+      "severe_pct": 3.1,
+      "p_by_0900": 85.5,
+      "p_by_0915": 85.5,
+      "median_actual_arr": "08:26",
+      "slot": "07:51",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2421
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "08:24",
+      "travel_min": 33.0
+    },
+    {
+      "n": 384,
+      "denom": 384,
+      "served_pct": 83.6,
+      "no_show_pct": 16.4,
+      "complete_cancel_pct": 5.7,
+      "good_trip_pct": 73.7,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 2.1,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 6.0,
+      "ontime_pct": 88.2,
+      "severe_pct": 2.5,
+      "p_by_0900": 81.8,
+      "p_by_0915": 82.8,
+      "median_actual_arr": "08:45",
+      "slot": "08:11",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1829,
+        301829
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "08:44",
+      "travel_min": 33.0
+    },
+    {
+      "n": 324,
+      "denom": 324,
+      "served_pct": 83.0,
+      "no_show_pct": 17.0,
+      "complete_cancel_pct": 7.4,
+      "good_trip_pct": 54.3,
+      "dep_delay_median": 2.0,
+      "arr_delay_mean": 6.0,
+      "arr_delay_median": 3.0,
+      "arr_delay_p90": 16.0,
+      "ontime_pct": 65.4,
+      "severe_pct": 10.4,
+      "p_by_0900": 54.6,
+      "p_by_0915": 76.5,
+      "median_actual_arr": "08:58",
+      "slot": "08:21",
+      "is_user_slot": true,
+      "service_type": "Eurocity Direct",
+      "train_numbers": [
+        9523,
+        309523,
+        109523
+      ],
+      "origin": "BRUSZ",
+      "origin_name": "Brussel-Zuid",
+      "originates_at_rtd": 0,
+      "planned_arr": "08:56",
+      "travel_min": 34.0
+    },
+    {
+      "n": 386,
+      "denom": 386,
+      "served_pct": 83.7,
+      "no_show_pct": 16.3,
+      "complete_cancel_pct": 5.4,
+      "good_trip_pct": 75.1,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.5,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.8,
+      "ontime_pct": 89.8,
+      "severe_pct": 1.9,
+      "p_by_0900": 0.0,
+      "p_by_0915": 58.8,
+      "median_actual_arr": "09:15",
+      "slot": "08:41",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1831,
+        301831,
+        101831
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "09:14",
+      "travel_min": 33.0
+    },
+    {
+      "n": 348,
+      "denom": 348,
+      "served_pct": 86.8,
+      "no_show_pct": 13.2,
+      "complete_cancel_pct": 12.1,
+      "good_trip_pct": 78.7,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.8,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 90.7,
+      "severe_pct": 1.7,
+      "p_by_0900": 0.0,
+      "p_by_0915": 0.0,
+      "median_actual_arr": "09:25",
+      "slot": "08:51",
+      "is_user_slot": true,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2425,
+        12425,
+        302425
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "09:24",
+      "travel_min": 33.0
+    },
+    {
+      "n": 377,
+      "denom": 377,
+      "served_pct": 87.8,
+      "no_show_pct": 12.2,
+      "complete_cancel_pct": 4.2,
+      "good_trip_pct": 75.6,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 2.1,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 6.0,
+      "ontime_pct": 86.1,
+      "severe_pct": 0.6,
+      "p_by_0900": 0.0,
+      "p_by_0915": 0.0,
+      "median_actual_arr": "09:45",
+      "slot": "09:11",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1833,
+        301833,
+        101833
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "09:44",
+      "travel_min": 33.0
+    },
+    {
+      "n": 324,
+      "denom": 324,
+      "served_pct": 80.6,
+      "no_show_pct": 19.4,
+      "complete_cancel_pct": 8.0,
+      "good_trip_pct": 62.3,
+      "dep_delay_median": 1.0,
+      "arr_delay_mean": 4.2,
+      "arr_delay_median": 1.0,
+      "arr_delay_p90": 13.0,
+      "ontime_pct": 77.4,
+      "severe_pct": 8.8,
+      "p_by_0900": 0.0,
+      "p_by_0915": 0.0,
+      "median_actual_arr": "09:57",
+      "slot": "09:21",
+      "is_user_slot": false,
+      "service_type": "Eurocity Direct",
+      "train_numbers": [
+        9527,
+        309527,
+        109527
+      ],
+      "origin": "BRUSZ",
+      "origin_name": "Brussel-Zuid",
+      "originates_at_rtd": 0,
+      "planned_arr": "09:56",
+      "travel_min": 34.0
+    },
+    {
+      "n": 378,
+      "denom": 378,
+      "served_pct": 90.5,
+      "no_show_pct": 9.5,
+      "complete_cancel_pct": 3.4,
+      "good_trip_pct": 82.3,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.7,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "ontime_pct": 90.9,
+      "severe_pct": 2.6,
+      "p_by_0900": 0.0,
+      "p_by_0915": 0.0,
+      "median_actual_arr": "10:14",
+      "slot": "09:41",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        1835,
+        301835
+      ],
+      "origin": "BD",
+      "origin_name": "Breda",
+      "originates_at_rtd": 0,
+      "planned_arr": "10:14",
+      "travel_min": 33.0
+    },
+    {
+      "n": 351,
+      "denom": 351,
+      "served_pct": 90.0,
+      "no_show_pct": 10.0,
+      "complete_cancel_pct": 9.1,
+      "good_trip_pct": 80.9,
+      "dep_delay_median": 0.0,
+      "arr_delay_mean": 1.6,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.5,
+      "ontime_pct": 89.9,
+      "severe_pct": 1.9,
+      "p_by_0900": 0.0,
+      "p_by_0915": 0.0,
+      "median_actual_arr": "10:25",
+      "slot": "09:51",
+      "is_user_slot": false,
+      "service_type": "Intercity direct",
+      "train_numbers": [
+        2429,
+        12429,
+        302429
+      ],
+      "origin": "RTD",
+      "origin_name": "Rotterdam C.",
+      "originates_at_rtd": 1,
+      "planned_arr": "10:24",
+      "travel_min": 33.0
+    }
+  ],
+  "by_dow": {
+    "07:11": {
+      "Mon": {
+        "n": 80,
+        "ontime_pct": 86.4,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 71.2,
+        "p_by_0900": 82.5
+      },
+      "Tue": {
+        "n": 75,
+        "ontime_pct": 81.2,
+        "arr_delay_median": 2.0,
+        "good_trip_pct": 74.7,
+        "p_by_0900": 92.0
+      },
+      "Wed": {
+        "n": 76,
+        "ontime_pct": 79.7,
+        "arr_delay_median": 2.0,
+        "good_trip_pct": 67.1,
+        "p_by_0900": 84.2
+      },
+      "Thu": {
+        "n": 71,
+        "ontime_pct": 83.6,
+        "arr_delay_median": 2.0,
+        "good_trip_pct": 78.9,
+        "p_by_0900": 94.4
+      },
+      "Fri": {
+        "n": 77,
+        "ontime_pct": 84.6,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 71.4,
+        "p_by_0900": 84.4
+      }
+    },
+    "07:21": {
+      "Mon": {
+        "n": 66,
+        "ontime_pct": 89.7,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 78.8,
+        "p_by_0900": 87.9
+      },
+      "Tue": {
+        "n": 71,
+        "ontime_pct": 91.9,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 80.3,
+        "p_by_0900": 87.3
+      },
+      "Wed": {
+        "n": 69,
+        "ontime_pct": 90.2,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 79.7,
+        "p_by_0900": 88.4
+      },
+      "Thu": {
+        "n": 68,
+        "ontime_pct": 91.5,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 79.4,
+        "p_by_0900": 86.8
+      },
+      "Fri": {
+        "n": 66,
+        "ontime_pct": 94.9,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 84.8,
+        "p_by_0900": 89.4
+      }
+    },
+    "07:41": {
+      "Mon": {
+        "n": 78,
+        "ontime_pct": 90.5,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 73.1,
+        "p_by_0900": 80.8
+      },
+      "Tue": {
+        "n": 75,
+        "ontime_pct": 88.1,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 78.7,
+        "p_by_0900": 89.3
+      },
+      "Wed": {
+        "n": 76,
+        "ontime_pct": 92.1,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 76.3,
+        "p_by_0900": 82.9
+      },
+      "Thu": {
+        "n": 72,
+        "ontime_pct": 94.0,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 87.5,
+        "p_by_0900": 93.1
+      },
+      "Fri": {
+        "n": 74,
+        "ontime_pct": 88.1,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 79.7,
+        "p_by_0900": 90.5
+      }
+    },
+    "07:51": {
+      "Mon": {
+        "n": 66,
+        "ontime_pct": 85.5,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 71.2,
+        "p_by_0900": 83.3
+      },
+      "Tue": {
+        "n": 71,
+        "ontime_pct": 86.9,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 74.6,
+        "p_by_0900": 85.9
+      },
+      "Wed": {
+        "n": 69,
+        "ontime_pct": 84.7,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 72.5,
+        "p_by_0900": 85.5
+      },
+      "Thu": {
+        "n": 67,
+        "ontime_pct": 92.9,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 77.6,
+        "p_by_0900": 83.6
+      },
+      "Fri": {
+        "n": 66,
+        "ontime_pct": 93.2,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 83.3,
+        "p_by_0900": 89.4
+      }
+    },
+    "08:11": {
+      "Mon": {
+        "n": 79,
+        "ontime_pct": 90.8,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 74.7,
+        "p_by_0900": 79.7
+      },
+      "Tue": {
+        "n": 79,
+        "ontime_pct": 84.4,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 68.4,
+        "p_by_0900": 78.5
+      },
+      "Wed": {
+        "n": 78,
+        "ontime_pct": 89.4,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 75.6,
+        "p_by_0900": 82.1
+      },
+      "Thu": {
+        "n": 73,
+        "ontime_pct": 84.4,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 74.0,
+        "p_by_0900": 87.7
+      },
+      "Fri": {
+        "n": 75,
+        "ontime_pct": 91.9,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 76.0,
+        "p_by_0900": 81.3
+      }
+    },
+    "08:21": {
+      "Mon": {
+        "n": 64,
+        "ontime_pct": 58.3,
+        "arr_delay_median": 3.5,
+        "good_trip_pct": 43.8,
+        "p_by_0900": 46.9
+      },
+      "Tue": {
+        "n": 63,
+        "ontime_pct": 62.3,
+        "arr_delay_median": 3.0,
+        "good_trip_pct": 52.4,
+        "p_by_0900": 54.0
+      },
+      "Wed": {
+        "n": 66,
+        "ontime_pct": 69.1,
+        "arr_delay_median": 3.0,
+        "good_trip_pct": 57.6,
+        "p_by_0900": 56.1
+      },
+      "Thu": {
+        "n": 66,
+        "ontime_pct": 56.1,
+        "arr_delay_median": 3.0,
+        "good_trip_pct": 48.5,
+        "p_by_0900": 48.5
+      },
+      "Fri": {
+        "n": 65,
+        "ontime_pct": 80.4,
+        "arr_delay_median": 0.5,
+        "good_trip_pct": 69.2,
+        "p_by_0900": 67.7
+      }
+    },
+    "08:41": {
+      "Mon": {
+        "n": 80,
+        "ontime_pct": 87.7,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 71.2,
+        "p_by_0900": 0.0
+      },
+      "Tue": {
+        "n": 78,
+        "ontime_pct": 87.9,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 74.4,
+        "p_by_0900": 0.0
+      },
+      "Wed": {
+        "n": 78,
+        "ontime_pct": 90.0,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 69.2,
+        "p_by_0900": 0.0
+      },
+      "Thu": {
+        "n": 77,
+        "ontime_pct": 86.6,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 75.3,
+        "p_by_0900": 0.0
+      },
+      "Fri": {
+        "n": 73,
+        "ontime_pct": 96.9,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 86.3,
+        "p_by_0900": 0.0
+      }
+    },
+    "08:51": {
+      "Mon": {
+        "n": 70,
+        "ontime_pct": 96.6,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 81.4,
+        "p_by_0900": 0.0
+      },
+      "Tue": {
+        "n": 71,
+        "ontime_pct": 88.5,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 76.1,
+        "p_by_0900": 0.0
+      },
+      "Wed": {
+        "n": 70,
+        "ontime_pct": 93.1,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 77.1,
+        "p_by_0900": 0.0
+      },
+      "Thu": {
+        "n": 69,
+        "ontime_pct": 90.3,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 81.2,
+        "p_by_0900": 0.0
+      },
+      "Fri": {
+        "n": 68,
+        "ontime_pct": 85.5,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 77.9,
+        "p_by_0900": 0.0
+      }
+    }
+  },
+  "by_month": [
+    {
+      "month": "2024-12",
+      "n": 181,
+      "ontime_pct": 91.9,
+      "arr_delay_median": 1.0,
+      "good_trip_pct": 81.8,
+      "severe_pct": 0.6,
+      "no_show_pct": 11.0
+    },
+    {
+      "month": "2025-01",
+      "n": 296,
+      "ontime_pct": 90.5,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 83.4,
+      "severe_pct": 3.7,
+      "no_show_pct": 7.8
+    },
+    {
+      "month": "2025-02",
+      "n": 323,
+      "ontime_pct": 90.0,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 78.0,
+      "severe_pct": 3.2,
+      "no_show_pct": 13.3
+    },
+    {
+      "month": "2025-03",
+      "n": 317,
+      "ontime_pct": 83.7,
+      "arr_delay_median": 1.0,
+      "good_trip_pct": 69.7,
+      "severe_pct": 5.3,
+      "no_show_pct": 16.7
+    },
+    {
+      "month": "2025-04",
+      "n": 335,
+      "ontime_pct": 87.7,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 78.8,
+      "severe_pct": 3.0,
+      "no_show_pct": 10.1
+    },
+    {
+      "month": "2025-05",
+      "n": 324,
+      "ontime_pct": 88.8,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 75.6,
+      "severe_pct": 4.0,
+      "no_show_pct": 14.8
+    },
+    {
+      "month": "2025-06",
+      "n": 331,
+      "ontime_pct": 96.9,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 66.5,
+      "severe_pct": 0.4,
+      "no_show_pct": 31.4
+    },
+    {
+      "month": "2025-07",
+      "n": 281,
+      "ontime_pct": 92.0,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 77.9,
+      "severe_pct": 2.1,
+      "no_show_pct": 15.3
+    },
+    {
+      "month": "2025-08",
+      "n": 316,
+      "ontime_pct": 90.1,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 83.9,
+      "severe_pct": 2.4,
+      "no_show_pct": 7.0
+    },
+    {
+      "month": "2025-09",
+      "n": 354,
+      "ontime_pct": 90.0,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 83.6,
+      "severe_pct": 2.1,
+      "no_show_pct": 7.1
+    },
+    {
+      "month": "2025-10",
+      "n": 384,
+      "ontime_pct": 85.7,
+      "arr_delay_median": 1.0,
+      "good_trip_pct": 73.2,
+      "severe_pct": 3.4,
+      "no_show_pct": 14.6
+    },
+    {
+      "month": "2025-11",
+      "n": 319,
+      "ontime_pct": 73.2,
+      "arr_delay_median": 2.0,
+      "good_trip_pct": 65.8,
+      "severe_pct": 3.1,
+      "no_show_pct": 10.0
+    },
+    {
+      "month": "2025-12",
+      "n": 370,
+      "ontime_pct": 83.1,
+      "arr_delay_median": 1.0,
+      "good_trip_pct": 73.0,
+      "severe_pct": 4.3,
+      "no_show_pct": 12.2
+    },
+    {
+      "month": "2026-01",
+      "n": 308,
+      "ontime_pct": 88.9,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 67.5,
+      "severe_pct": 1.7,
+      "no_show_pct": 24.0
+    },
+    {
+      "month": "2026-02",
+      "n": 327,
+      "ontime_pct": 90.8,
+      "arr_delay_median": 1.0,
+      "good_trip_pct": 78.3,
+      "severe_pct": 1.8,
+      "no_show_pct": 13.8
+    },
+    {
+      "month": "2026-03",
+      "n": 353,
+      "ontime_pct": 91.0,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 86.4,
+      "severe_pct": 1.8,
+      "no_show_pct": 5.1
+    },
+    {
+      "month": "2026-04",
+      "n": 303,
+      "ontime_pct": 87.6,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 79.5,
+      "severe_pct": 3.6,
+      "no_show_pct": 9.2
+    },
+    {
+      "month": "2026-05",
+      "n": 254,
+      "ontime_pct": 86.4,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 80.3,
+      "severe_pct": 3.8,
+      "no_show_pct": 7.1
+    }
+  ],
+  "weather": {
+    "by_condition": [
+      {
+        "condition": "Clear/dry",
+        "n": 2543,
+        "arr_delay_mean": 1.9,
+        "ontime_pct": 90.1,
+        "severe_pct": 2.6
+      },
+      {
+        "condition": "Rain",
+        "n": 1828,
+        "arr_delay_mean": 1.8,
+        "ontime_pct": 89.3,
+        "severe_pct": 2.0
+      },
+      {
+        "condition": "Heavy rain",
+        "n": 163,
+        "arr_delay_mean": 1.8,
+        "ontime_pct": 90.8,
+        "severe_pct": 2.5
+      },
+      {
+        "condition": "Storm gusts",
+        "n": 1310,
+        "arr_delay_mean": 1.6,
+        "ontime_pct": 91.1,
+        "severe_pct": 2.3
+      },
+      {
+        "condition": "Frost",
+        "n": 633,
+        "arr_delay_mean": 2.6,
+        "ontime_pct": 83.9,
+        "severe_pct": 3.5
+      },
+      {
+        "condition": "Fog",
+        "n": 840,
+        "arr_delay_mean": 2.3,
+        "ontime_pct": 85.6,
+        "severe_pct": 2.9
+      }
+    ],
+    "correlations": {
+      "wind_gust_ms": -0.033,
+      "precip_mm": -0.004,
+      "wind_mean_ms": -0.038
+    }
+  },
+  "disruptions": {
+    "available": true,
+    "coverage_years": [
+      "2024",
+      "2025"
+    ],
+    "n_disrupted_mornings": 246,
+    "rows": [
+      {
+        "label": "Normal morning",
+        "n": 2373,
+        "arr_delay_mean": 1.5,
+        "ontime_pct": 91.7,
+        "severe_pct": 1.6
+      },
+      {
+        "label": "Disrupted morning",
+        "n": 1758,
+        "arr_delay_mean": 2.4,
+        "ontime_pct": 85.8,
+        "severe_pct": 3.9
+      }
+    ]
+  },
+  "origin_effect": [
+    {
+      "label": "Originates at Rotterdam",
+      "n": 2842,
+      "ontime_pct": 91.3,
+      "arr_delay_median": 0.0,
+      "severe_pct": 1.9,
+      "no_show_pct": 11.1,
+      "complete_cancel_pct": 9.3,
+      "good_trip_pct": 81.2,
+      "p_by_0900": 65.6
+    },
+    {
+      "label": "Passing through",
+      "n": 2834,
+      "ontime_pct": 84.6,
+      "arr_delay_median": 1.0,
+      "severe_pct": 3.9,
+      "no_show_pct": 14.7,
+      "complete_cancel_pct": 5.4,
+      "good_trip_pct": 72.2,
+      "p_by_0900": 39.1
+    }
+  ],
+  "alternative": {
+    "hsl": {
+      "n": 5676,
+      "ontime_pct": 88.0,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 5.0,
+      "severe_pct": 2.9,
+      "no_show_pct": 12.9,
+      "good_trip_pct": 76.7,
+      "p_by_0900": 52.3,
+      "travel_min": 33.0,
+      "n_intermediate": 1,
+      "originates_pct": 50.1
+    },
+    "classic": {
+      "n": 4449,
+      "ontime_pct": 90.6,
+      "arr_delay_median": 0.0,
+      "arr_delay_p90": 4.0,
+      "severe_pct": 1.4,
+      "no_show_pct": 14.2,
+      "good_trip_pct": 77.8,
+      "p_by_0900": 38.4,
+      "travel_min": 60.0,
+      "n_intermediate": 6,
+      "originates_pct": 38.6
+    },
+    "classic_available": true
+  },
+  "recommendation": {
+    "before9_with_seat": [
+      {
+        "slot": "07:21",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "07:54",
+        "ontime_pct": 91.6,
+        "p_by_0900": 87.9,
+        "p_by_0915": 87.9,
+        "arr_delay_median": 1.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 2.3,
+        "no_show_pct": 12.1,
+        "good_trip_pct": 80.6,
+        "n": 340
+      },
+      {
+        "slot": "07:51",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "08:24",
+        "ontime_pct": 88.6,
+        "p_by_0900": 85.5,
+        "p_by_0915": 85.5,
+        "arr_delay_median": 1.0,
+        "arr_delay_p90": 6.0,
+        "severe_pct": 3.1,
+        "no_show_pct": 14.5,
+        "good_trip_pct": 75.8,
+        "n": 339
+      }
+    ],
+    "most_reliable": [
+      {
+        "slot": "07:21",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "07:54",
+        "ontime_pct": 91.6,
+        "p_by_0900": 87.9,
+        "p_by_0915": 87.9,
+        "arr_delay_median": 1.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 2.3,
+        "no_show_pct": 12.1,
+        "good_trip_pct": 80.6,
+        "n": 340
+      },
+      {
+        "slot": "07:41",
+        "service_type": "Intercity direct",
+        "origin_name": "Breda",
+        "originates_at_rtd": 0,
+        "planned_arr": "08:14",
+        "ontime_pct": 90.5,
+        "p_by_0900": 87.2,
+        "p_by_0915": 87.2,
+        "arr_delay_median": 0.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 2.8,
+        "no_show_pct": 12.8,
+        "good_trip_pct": 78.9,
+        "n": 375
+      },
+      {
+        "slot": "08:51",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "09:24",
+        "ontime_pct": 90.7,
+        "p_by_0900": 0.0,
+        "p_by_0915": 0.0,
+        "arr_delay_median": 0.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 1.7,
+        "no_show_pct": 13.2,
+        "good_trip_pct": 78.7,
+        "n": 348
+      }
+    ],
+    "seat_after9_ok": [
+      {
+        "slot": "08:51",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "09:24",
+        "ontime_pct": 90.7,
+        "p_by_0900": 0.0,
+        "p_by_0915": 0.0,
+        "arr_delay_median": 0.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 1.7,
+        "no_show_pct": 13.2,
+        "good_trip_pct": 78.7,
+        "n": 348
+      }
+    ],
+    "avoid": [
+      {
+        "slot": "08:21",
+        "service_type": "Eurocity Direct",
+        "origin_name": "Brussel-Zuid",
+        "originates_at_rtd": 0,
+        "planned_arr": "08:56",
+        "ontime_pct": 65.4,
+        "p_by_0900": 54.6,
+        "p_by_0915": 76.5,
+        "arr_delay_median": 3.0,
+        "arr_delay_p90": 16.0,
+        "severe_pct": 10.4,
+        "no_show_pct": 17.0,
+        "good_trip_pct": 54.3,
+        "n": 324
+      }
+    ]
+  },
+  "dow_names": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+  ],
+  "live": {
+    "available": true,
+    "n_obs": 23,
+    "n_days": 2,
+    "date_min": "2026-06-06",
+    "date_max": "2026-06-07",
+    "latest_date": "2026-06-07",
+    "snapshot": [
+      {
+        "slot": "06:41",
+        "dep_time": "06:41",
+        "ritnummer": 1823,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "MEDIUM",
+        "dep_delay": 1.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "07:11",
+        "dep_time": "07:11",
+        "ritnummer": 1825,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "LOW",
+        "dep_delay": 1.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "07:41",
+        "dep_time": "07:41",
+        "ritnummer": 1827,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "LOW",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "08:11",
+        "dep_time": "08:11",
+        "ritnummer": 1829,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "LOW",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "08:21",
+        "dep_time": "08:22",
+        "ritnummer": 9523,
+        "category": "ECD",
+        "type": "ICNG",
+        "cars": 8,
+        "sets": 1,
+        "short": 0,
+        "crowd": "UNKNOWN",
+        "dep_delay": 0.0,
+        "direction": "Amsterdam Zuid"
+      },
+      {
+        "slot": "08:41",
+        "dep_time": "08:41",
+        "ritnummer": 1831,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 8,
+        "sets": 1,
+        "short": 0,
+        "crowd": "LOW",
+        "dep_delay": 1.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "08:51",
+        "dep_time": "08:52",
+        "ritnummer": 2425,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "MEDIUM",
+        "dep_delay": 0.0,
+        "direction": "Almere Centrum"
+      },
+      {
+        "slot": "09:11",
+        "dep_time": "09:11",
+        "ritnummer": 1833,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "MEDIUM",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "09:21",
+        "dep_time": "09:22",
+        "ritnummer": 9527,
+        "category": "ECD",
+        "type": "ICNG",
+        "cars": 8,
+        "sets": 1,
+        "short": 0,
+        "crowd": "UNKNOWN",
+        "dep_delay": 0.0,
+        "direction": "Amsterdam Zuid"
+      },
+      {
+        "slot": "09:41",
+        "dep_time": "09:41",
+        "ritnummer": 1835,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "MEDIUM",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "09:51",
+        "dep_time": "09:52",
+        "ritnummer": 2429,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 5,
+        "sets": 1,
+        "short": 1,
+        "crowd": "MEDIUM",
+        "dep_delay": 0.0,
+        "direction": "Almere Centrum"
+      }
+    ],
+    "per_slot": [],
+    "dow_busy": {},
+    "enough": false
+  }
+}
