@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated": "2026-06-07 18:27 UTC",
+    "generated": "2026-06-08 08:50 UTC",
     "window_start": "2024-12-02",
     "window_end": "2026-05-31",
     "n_services": 54822,
@@ -1214,16 +1214,55 @@
   ],
   "live": {
     "available": true,
-    "n_obs": 23,
-    "n_days": 2,
+    "n_obs": 39,
+    "n_days": 3,
     "date_min": "2026-06-06",
-    "date_max": "2026-06-07",
-    "latest_date": "2026-06-07",
+    "date_max": "2026-06-08",
+    "latest_date": "2026-06-08",
     "snapshot": [
+      {
+        "slot": "06:11",
+        "dep_time": "06:11",
+        "ritnummer": 1821,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 13,
+        "sets": 2,
+        "short": 0,
+        "crowd": "LOW",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "06:21",
+        "dep_time": "06:21",
+        "ritnummer": 9715,
+        "category": "ICD",
+        "type": null,
+        "cars": 0,
+        "sets": 0,
+        "short": 1,
+        "crowd": "UNKNOWN",
+        "dep_delay": 0.0,
+        "direction": "Lelystad Centrum"
+      },
       {
         "slot": "06:41",
         "dep_time": "06:41",
         "ritnummer": 1823,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 8,
+        "sets": 1,
+        "short": 0,
+        "crowd": "LOW",
+        "dep_delay": 0.0,
+        "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "06:51",
+        "dep_time": "06:51",
+        "ritnummer": 2417,
         "category": "ICD",
         "type": "ICNG",
         "cars": 5,
@@ -1231,7 +1270,7 @@
         "short": 1,
         "crowd": "MEDIUM",
         "dep_delay": 1.0,
-        "direction": "Amersfoort Schothorst"
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "07:11",
@@ -1239,12 +1278,25 @@
         "ritnummer": 1825,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 5,
-        "sets": 1,
-        "short": 1,
-        "crowd": "LOW",
+        "cars": 10,
+        "sets": 2,
+        "short": 0,
+        "crowd": "HIGH",
         "dep_delay": 1.0,
         "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "07:21",
+        "dep_time": "07:21",
+        "ritnummer": 9719,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 8,
+        "sets": 1,
+        "short": 0,
+        "crowd": "UNKNOWN",
+        "dep_delay": 1.0,
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "07:41",
@@ -1252,12 +1304,25 @@
         "ritnummer": 1827,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 5,
-        "sets": 1,
-        "short": 1,
-        "crowd": "LOW",
+        "cars": 13,
+        "sets": 2,
+        "short": 0,
+        "crowd": "HIGH",
         "dep_delay": 0.0,
         "direction": "Amersfoort Schothorst"
+      },
+      {
+        "slot": "07:51",
+        "dep_time": "07:51",
+        "ritnummer": 2421,
+        "category": "ICD",
+        "type": "ICNG",
+        "cars": 13,
+        "sets": 2,
+        "short": 0,
+        "crowd": "HIGH",
+        "dep_delay": 1.0,
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "08:11",
@@ -1265,25 +1330,25 @@
         "ritnummer": 1829,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 5,
-        "sets": 1,
-        "short": 1,
-        "crowd": "LOW",
-        "dep_delay": 0.0,
+        "cars": 10,
+        "sets": 2,
+        "short": 0,
+        "crowd": "HIGH",
+        "dep_delay": 3.0,
         "direction": "Amersfoort Schothorst"
       },
       {
         "slot": "08:21",
-        "dep_time": "08:22",
+        "dep_time": "08:21",
         "ritnummer": 9523,
         "category": "ECD",
         "type": "ICNG",
-        "cars": 8,
-        "sets": 1,
+        "cars": 13,
+        "sets": 2,
         "short": 0,
         "crowd": "UNKNOWN",
-        "dep_delay": 0.0,
-        "direction": "Amsterdam Zuid"
+        "dep_delay": 10.0,
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "08:41",
@@ -1291,25 +1356,25 @@
         "ritnummer": 1831,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 8,
-        "sets": 1,
+        "cars": 10,
+        "sets": 2,
         "short": 0,
-        "crowd": "LOW",
-        "dep_delay": 1.0,
+        "crowd": "HIGH",
+        "dep_delay": 0.0,
         "direction": "Amersfoort Schothorst"
       },
       {
         "slot": "08:51",
-        "dep_time": "08:52",
+        "dep_time": "08:51",
         "ritnummer": 2425,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 5,
+        "cars": 8,
         "sets": 1,
-        "short": 1,
-        "crowd": "MEDIUM",
+        "short": 0,
+        "crowd": "HIGH",
         "dep_delay": 0.0,
-        "direction": "Almere Centrum"
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "09:11",
@@ -1320,13 +1385,13 @@
         "cars": 5,
         "sets": 1,
         "short": 1,
-        "crowd": "MEDIUM",
+        "crowd": "HIGH",
         "dep_delay": 0.0,
         "direction": "Amersfoort Schothorst"
       },
       {
         "slot": "09:21",
-        "dep_time": "09:22",
+        "dep_time": "09:21",
         "ritnummer": 9527,
         "category": "ECD",
         "type": "ICNG",
@@ -1334,8 +1399,8 @@
         "sets": 1,
         "short": 0,
         "crowd": "UNKNOWN",
-        "dep_delay": 0.0,
-        "direction": "Amsterdam Zuid"
+        "dep_delay": 1.0,
+        "direction": "Lelystad Centrum"
       },
       {
         "slot": "09:41",
@@ -1346,26 +1411,141 @@
         "cars": 5,
         "sets": 1,
         "short": 1,
-        "crowd": "MEDIUM",
+        "crowd": "HIGH",
         "dep_delay": 0.0,
         "direction": "Amersfoort Schothorst"
       },
       {
         "slot": "09:51",
-        "dep_time": "09:52",
+        "dep_time": "09:51",
         "ritnummer": 2429,
         "category": "ICD",
         "type": "ICNG",
-        "cars": 5,
-        "sets": 1,
-        "short": 1,
-        "crowd": "MEDIUM",
+        "cars": 10,
+        "sets": 2,
+        "short": 0,
+        "crowd": "LOW",
         "dep_delay": 0.0,
-        "direction": "Almere Centrum"
+        "direction": "Lelystad Centrum"
       }
     ],
-    "per_slot": [],
-    "dow_busy": {},
+    "per_slot": [
+      {
+        "slot": "07:11",
+        "n": 1,
+        "typical_cars": 10,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      },
+      {
+        "slot": "07:21",
+        "n": 1,
+        "typical_cars": 8,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 0,
+          "UNKNOWN": 1
+        },
+        "crowd_known": 0,
+        "pct_busy": null
+      },
+      {
+        "slot": "07:41",
+        "n": 1,
+        "typical_cars": 13,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      },
+      {
+        "slot": "07:51",
+        "n": 1,
+        "typical_cars": 13,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      },
+      {
+        "slot": "08:11",
+        "n": 1,
+        "typical_cars": 10,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      },
+      {
+        "slot": "08:21",
+        "n": 1,
+        "typical_cars": 13,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 0,
+          "UNKNOWN": 1
+        },
+        "crowd_known": 0,
+        "pct_busy": null
+      },
+      {
+        "slot": "08:41",
+        "n": 1,
+        "typical_cars": 10,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      },
+      {
+        "slot": "08:51",
+        "n": 1,
+        "typical_cars": 8,
+        "pct_short": 0.0,
+        "crowd_mix": {
+          "LOW": 0,
+          "MEDIUM": 0,
+          "HIGH": 1,
+          "UNKNOWN": 0
+        },
+        "crowd_known": 1,
+        "pct_busy": 100.0
+      }
+    ],
+    "dow_busy": {
+      "Mon": 75.0
+    },
     "enough": false
   }
 }
