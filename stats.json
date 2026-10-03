@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated": "2026-10-03 09:35 UTC",
+    "generated": "2026-10-03 10:32 UTC",
     "window_start": "2024-12-02",
-    "window_end": "2026-07-31",
-    "n_services": 61438,
-    "n_weekday_morning_hsl": 6393,
+    "window_end": "2026-08-31",
+    "n_services": 64533,
+    "n_weekday_morning_hsl": 6665,
     "attribution": "Punctuality data: Rijden de Treinen (CC-BY 4.0). Weather: KNMI. Live: NS API.",
     "ontime_threshold": 5.0,
     "target_arrival": "09:00",
@@ -22,20 +22,20 @@
   },
   "slots": [
     {
-      "n": 401,
-      "denom": 401,
-      "served_pct": 92.0,
-      "no_show_pct": 8.0,
-      "complete_cancel_pct": 5.2,
-      "good_trip_pct": 87.0,
+      "n": 422,
+      "denom": 422,
+      "served_pct": 92.4,
+      "no_show_pct": 7.6,
+      "complete_cancel_pct": 5.0,
+      "good_trip_pct": 87.7,
       "dep_delay_median": 0.0,
       "arr_delay_mean": 0.8,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 1.0,
-      "ontime_pct": 94.6,
-      "severe_pct": 1.4,
-      "p_by_0900": 92.0,
-      "p_by_0915": 92.0,
+      "ontime_pct": 94.9,
+      "severe_pct": 1.3,
+      "p_by_0900": 92.4,
+      "p_by_0915": 92.4,
       "median_actual_arr": "06:45",
       "slot": "06:11",
       "is_user_slot": false,
@@ -51,21 +51,21 @@
       "travel_min": 33.0
     },
     {
-      "n": 384,
-      "denom": 384,
-      "served_pct": 89.1,
-      "no_show_pct": 10.9,
-      "complete_cancel_pct": 9.4,
-      "good_trip_pct": 81.0,
+      "n": 394,
+      "denom": 394,
+      "served_pct": 88.8,
+      "no_show_pct": 11.2,
+      "complete_cancel_pct": 9.6,
+      "good_trip_pct": 80.7,
       "dep_delay_median": 0.0,
       "arr_delay_mean": 1.5,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
       "ontime_pct": 90.9,
       "severe_pct": 2.0,
-      "p_by_0900": 89.1,
-      "p_by_0915": 89.1,
-      "median_actual_arr": "06:54",
+      "p_by_0900": 88.8,
+      "p_by_0915": 88.8,
+      "median_actual_arr": "06:55",
       "slot": "06:21",
       "is_user_slot": false,
       "service_type": "Intercity direct",
@@ -81,20 +81,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 406,
-      "denom": 406,
-      "served_pct": 88.4,
-      "no_show_pct": 11.6,
-      "complete_cancel_pct": 6.4,
-      "good_trip_pct": 83.0,
+      "n": 427,
+      "denom": 427,
+      "served_pct": 88.5,
+      "no_show_pct": 11.5,
+      "complete_cancel_pct": 6.3,
+      "good_trip_pct": 83.1,
       "dep_delay_median": 0.0,
       "arr_delay_mean": 1.2,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 3.0,
       "ontime_pct": 93.9,
-      "severe_pct": 0.6,
-      "p_by_0900": 88.4,
-      "p_by_0915": 88.4,
+      "severe_pct": 0.8,
+      "p_by_0900": 88.5,
+      "p_by_0915": 88.5,
       "median_actual_arr": "07:15",
       "slot": "06:41",
       "is_user_slot": false,
@@ -110,20 +110,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 360,
-      "denom": 360,
-      "served_pct": 91.4,
-      "no_show_pct": 8.6,
-      "complete_cancel_pct": 8.1,
-      "good_trip_pct": 85.3,
+      "n": 370,
+      "denom": 370,
+      "served_pct": 91.6,
+      "no_show_pct": 8.4,
+      "complete_cancel_pct": 7.8,
+      "good_trip_pct": 85.1,
       "dep_delay_median": 0.0,
       "arr_delay_mean": 1.7,
       "arr_delay_median": 0.0,
-      "arr_delay_p90": 3.0,
-      "ontime_pct": 93.3,
+      "arr_delay_p90": 3.2,
+      "ontime_pct": 92.9,
       "severe_pct": 2.4,
-      "p_by_0900": 91.4,
-      "p_by_0915": 91.4,
+      "p_by_0900": 91.6,
+      "p_by_0915": 91.6,
       "median_actual_arr": "07:25",
       "slot": "06:51",
       "is_user_slot": false,
@@ -139,20 +139,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 425,
-      "denom": 425,
-      "served_pct": 86.8,
-      "no_show_pct": 13.2,
-      "complete_cancel_pct": 4.2,
-      "good_trip_pct": 72.2,
+      "n": 447,
+      "denom": 447,
+      "served_pct": 87.2,
+      "no_show_pct": 12.8,
+      "complete_cancel_pct": 4.3,
+      "good_trip_pct": 71.6,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 2.5,
+      "arr_delay_mean": 2.6,
       "arr_delay_median": 1.0,
-      "arr_delay_p90": 6.0,
-      "ontime_pct": 83.2,
-      "severe_pct": 2.4,
-      "p_by_0900": 86.8,
-      "p_by_0915": 86.8,
+      "arr_delay_p90": 7.0,
+      "ontime_pct": 82.1,
+      "severe_pct": 2.3,
+      "p_by_0900": 87.2,
+      "p_by_0915": 87.2,
       "median_actual_arr": "07:46",
       "slot": "07:11",
       "is_user_slot": true,
@@ -169,20 +169,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 385,
-      "denom": 385,
-      "served_pct": 88.8,
-      "no_show_pct": 11.2,
-      "complete_cancel_pct": 10.9,
-      "good_trip_pct": 81.6,
+      "n": 395,
+      "denom": 395,
+      "served_pct": 89.1,
+      "no_show_pct": 10.9,
+      "complete_cancel_pct": 10.6,
+      "good_trip_pct": 81.3,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 1.7,
+      "arr_delay_mean": 1.8,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "ontime_pct": 91.8,
+      "ontime_pct": 91.2,
       "severe_pct": 2.0,
-      "p_by_0900": 88.8,
-      "p_by_0915": 88.8,
+      "p_by_0900": 89.1,
+      "p_by_0915": 89.1,
       "median_actual_arr": "07:55",
       "slot": "07:21",
       "is_user_slot": true,
@@ -198,20 +198,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 420,
-      "denom": 420,
-      "served_pct": 87.4,
-      "no_show_pct": 12.6,
-      "complete_cancel_pct": 5.7,
-      "good_trip_pct": 79.5,
+      "n": 441,
+      "denom": 441,
+      "served_pct": 88.0,
+      "no_show_pct": 12.0,
+      "complete_cancel_pct": 5.4,
+      "good_trip_pct": 80.3,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 1.8,
+      "arr_delay_mean": 1.7,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "ontime_pct": 91.0,
-      "severe_pct": 2.5,
-      "p_by_0900": 87.4,
-      "p_by_0915": 87.4,
+      "ontime_pct": 91.2,
+      "severe_pct": 2.3,
+      "p_by_0900": 88.0,
+      "p_by_0915": 88.0,
       "median_actual_arr": "08:15",
       "slot": "07:41",
       "is_user_slot": true,
@@ -227,20 +227,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 384,
-      "denom": 384,
-      "served_pct": 86.2,
-      "no_show_pct": 13.8,
-      "complete_cancel_pct": 11.5,
-      "good_trip_pct": 76.3,
+      "n": 394,
+      "denom": 394,
+      "served_pct": 86.5,
+      "no_show_pct": 13.5,
+      "complete_cancel_pct": 11.2,
+      "good_trip_pct": 76.9,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 2.3,
+      "arr_delay_mean": 2.2,
       "arr_delay_median": 1.0,
       "arr_delay_p90": 6.0,
-      "ontime_pct": 88.5,
-      "severe_pct": 3.6,
-      "p_by_0900": 86.2,
-      "p_by_0915": 86.2,
+      "ontime_pct": 88.9,
+      "severe_pct": 3.5,
+      "p_by_0900": 86.5,
+      "p_by_0915": 86.5,
       "median_actual_arr": "08:25",
       "slot": "07:51",
       "is_user_slot": true,
@@ -255,20 +255,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 432,
-      "denom": 432,
-      "served_pct": 83.3,
-      "no_show_pct": 16.7,
-      "complete_cancel_pct": 5.8,
-      "good_trip_pct": 73.6,
+      "n": 454,
+      "denom": 454,
+      "served_pct": 83.9,
+      "no_show_pct": 16.1,
+      "complete_cancel_pct": 5.7,
+      "good_trip_pct": 73.8,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 2.4,
+      "arr_delay_mean": 2.5,
       "arr_delay_median": 1.0,
       "arr_delay_p90": 6.0,
-      "ontime_pct": 88.3,
-      "severe_pct": 2.5,
-      "p_by_0900": 81.5,
-      "p_by_0915": 82.4,
+      "ontime_pct": 87.9,
+      "severe_pct": 2.9,
+      "p_by_0900": 82.2,
+      "p_by_0915": 83.0,
       "median_actual_arr": "08:45",
       "slot": "08:11",
       "is_user_slot": true,
@@ -284,20 +284,20 @@
       "travel_min": 33.0
     },
     {
-      "n": 366,
-      "denom": 366,
-      "served_pct": 82.8,
-      "no_show_pct": 17.2,
-      "complete_cancel_pct": 6.6,
-      "good_trip_pct": 54.6,
+      "n": 387,
+      "denom": 387,
+      "served_pct": 83.7,
+      "no_show_pct": 16.3,
+      "complete_cancel_pct": 6.2,
+      "good_trip_pct": 55.8,
       "dep_delay_median": 2.0,
-      "arr_delay_mean": 6.0,
+      "arr_delay_mean": 5.9,
       "arr_delay_median": 3.0,
-      "arr_delay_p90": 16.0,
-      "ontime_pct": 66.0,
-      "severe_pct": 10.6,
-      "p_by_0900": 54.9,
-      "p_by_0915": 76.2,
+      "arr_delay_p90": 16.7,
+      "ontime_pct": 66.7,
+      "severe_pct": 10.8,
+      "p_by_0900": 56.1,
+      "p_by_0915": 77.0,
       "median_actual_arr": "08:58",
       "slot": "08:21",
       "is_user_slot": true,
@@ -314,20 +314,20 @@
       "travel_min": 34.0
     },
     {
-      "n": 431,
-      "denom": 431,
-      "served_pct": 84.9,
-      "no_show_pct": 15.1,
-      "complete_cancel_pct": 5.1,
-      "good_trip_pct": 76.6,
+      "n": 452,
+      "denom": 452,
+      "served_pct": 85.6,
+      "no_show_pct": 14.4,
+      "complete_cancel_pct": 4.9,
+      "good_trip_pct": 77.4,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 1.6,
+      "arr_delay_mean": 1.5,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "ontime_pct": 90.2,
-      "severe_pct": 1.9,
+      "ontime_pct": 90.4,
+      "severe_pct": 1.8,
       "p_by_0900": 0.0,
-      "p_by_0915": 60.6,
+      "p_by_0915": 61.5,
       "median_actual_arr": "09:15",
       "slot": "08:41",
       "is_user_slot": true,
@@ -344,17 +344,17 @@
       "travel_min": 33.0
     },
     {
-      "n": 393,
-      "denom": 393,
-      "served_pct": 88.0,
-      "no_show_pct": 12.0,
-      "complete_cancel_pct": 10.9,
-      "good_trip_pct": 79.6,
+      "n": 403,
+      "denom": 403,
+      "served_pct": 88.3,
+      "no_show_pct": 11.7,
+      "complete_cancel_pct": 10.7,
+      "good_trip_pct": 80.1,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 1.8,
+      "arr_delay_mean": 1.7,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "ontime_pct": 90.5,
+      "ontime_pct": 90.7,
       "severe_pct": 1.4,
       "p_by_0900": 0.0,
       "p_by_0915": 0.0,
@@ -374,18 +374,18 @@
       "travel_min": 33.0
     },
     {
-      "n": 421,
-      "denom": 421,
-      "served_pct": 88.6,
-      "no_show_pct": 11.4,
-      "complete_cancel_pct": 4.0,
-      "good_trip_pct": 76.2,
+      "n": 442,
+      "denom": 442,
+      "served_pct": 88.9,
+      "no_show_pct": 11.1,
+      "complete_cancel_pct": 3.8,
+      "good_trip_pct": 76.9,
       "dep_delay_median": 0.0,
-      "arr_delay_mean": 2.2,
+      "arr_delay_mean": 2.1,
       "arr_delay_median": 1.0,
-      "arr_delay_p90": 5.8,
-      "ontime_pct": 86.1,
-      "severe_pct": 1.1,
+      "arr_delay_p90": 5.0,
+      "ontime_pct": 86.5,
+      "severe_pct": 1.0,
       "p_by_0900": 0.0,
       "p_by_0915": 0.0,
       "median_actual_arr": "09:45",
@@ -404,18 +404,18 @@
       "travel_min": 33.0
     },
     {
-      "n": 366,
-      "denom": 366,
-      "served_pct": 79.8,
-      "no_show_pct": 20.2,
-      "complete_cancel_pct": 7.7,
-      "good_trip_pct": 62.6,
+      "n": 387,
+      "denom": 387,
+      "served_pct": 80.9,
+      "no_show_pct": 19.1,
+      "complete_cancel_pct": 7.2,
+      "good_trip_pct": 63.6,
       "dep_delay_median": 1.0,
-      "arr_delay_mean": 4.3,
+      "arr_delay_mean": 4.2,
       "arr_delay_median": 1.0,
       "arr_delay_p90": 13.0,
-      "ontime_pct": 78.4,
-      "severe_pct": 8.9,
+      "ontime_pct": 78.6,
+      "severe_pct": 8.6,
       "p_by_0900": 0.0,
       "p_by_0915": 0.0,
       "median_actual_arr": "09:57",
@@ -434,18 +434,18 @@
       "travel_min": 34.0
     },
     {
-      "n": 423,
-      "denom": 423,
-      "served_pct": 90.5,
-      "no_show_pct": 9.5,
-      "complete_cancel_pct": 3.1,
-      "good_trip_pct": 82.7,
+      "n": 444,
+      "denom": 444,
+      "served_pct": 90.8,
+      "no_show_pct": 9.2,
+      "complete_cancel_pct": 3.2,
+      "good_trip_pct": 82.9,
       "dep_delay_median": 0.0,
       "arr_delay_mean": 1.6,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "ontime_pct": 91.4,
-      "severe_pct": 2.6,
+      "ontime_pct": 91.3,
+      "severe_pct": 2.5,
       "p_by_0900": 0.0,
       "p_by_0915": 0.0,
       "median_actual_arr": "10:14",
@@ -463,10 +463,10 @@
       "travel_min": 33.0
     },
     {
-      "n": 396,
-      "denom": 396,
-      "served_pct": 90.7,
-      "no_show_pct": 9.3,
+      "n": 406,
+      "denom": 406,
+      "served_pct": 90.6,
+      "no_show_pct": 9.4,
       "complete_cancel_pct": 8.6,
       "good_trip_pct": 81.3,
       "dep_delay_median": 0.0,
@@ -496,297 +496,297 @@
   "by_dow": {
     "07:11": {
       "Mon": {
-        "n": 89,
-        "ontime_pct": 85.1,
+        "n": 94,
+        "ontime_pct": 83.5,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 70.8,
-        "p_by_0900": 83.1
+        "good_trip_pct": 70.2,
+        "p_by_0900": 84.0
       },
       "Tue": {
-        "n": 85,
-        "ontime_pct": 83.1,
+        "n": 90,
+        "ontime_pct": 81.5,
         "arr_delay_median": 2.0,
-        "good_trip_pct": 75.3,
-        "p_by_0900": 90.6
+        "good_trip_pct": 73.3,
+        "p_by_0900": 90.0
       },
       "Wed": {
-        "n": 85,
-        "ontime_pct": 78.9,
+        "n": 89,
+        "ontime_pct": 76.0,
         "arr_delay_median": 2.0,
-        "good_trip_pct": 65.9,
-        "p_by_0900": 83.5
+        "good_trip_pct": 64.0,
+        "p_by_0900": 84.3
       },
       "Thu": {
-        "n": 80,
-        "ontime_pct": 82.7,
+        "n": 84,
+        "ontime_pct": 83.5,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 77.5,
-        "p_by_0900": 93.8
+        "good_trip_pct": 78.6,
+        "p_by_0900": 94.0
       },
       "Fri": {
-        "n": 86,
-        "ontime_pct": 86.1,
+        "n": 90,
+        "ontime_pct": 85.5,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 72.1,
-        "p_by_0900": 83.7
+        "good_trip_pct": 72.2,
+        "p_by_0900": 84.4
       }
     },
     "07:21": {
       "Mon": {
-        "n": 75,
-        "ontime_pct": 89.6,
+        "n": 78,
+        "ontime_pct": 88.6,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 80.0,
-        "p_by_0900": 89.3
+        "good_trip_pct": 79.5,
+        "p_by_0900": 89.7
       },
       "Tue": {
-        "n": 80,
-        "ontime_pct": 91.5,
+        "n": 82,
+        "ontime_pct": 91.8,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 81.2,
-        "p_by_0900": 88.8
+        "good_trip_pct": 81.7,
+        "p_by_0900": 89.0
       },
       "Wed": {
-        "n": 78,
-        "ontime_pct": 89.7,
+        "n": 80,
+        "ontime_pct": 88.6,
         "arr_delay_median": 0.5,
-        "good_trip_pct": 78.2,
-        "p_by_0900": 87.2
+        "good_trip_pct": 77.5,
+        "p_by_0900": 87.5
       },
       "Thu": {
-        "n": 77,
-        "ontime_pct": 92.6,
+        "n": 79,
+        "ontime_pct": 92.9,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 81.8,
-        "p_by_0900": 88.3
+        "good_trip_pct": 82.3,
+        "p_by_0900": 88.6
       },
       "Fri": {
-        "n": 75,
-        "ontime_pct": 95.6,
+        "n": 76,
+        "ontime_pct": 94.2,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 86.7,
-        "p_by_0900": 90.7
+        "good_trip_pct": 85.5,
+        "p_by_0900": 90.8
       }
     },
     "07:41": {
       "Mon": {
-        "n": 87,
-        "ontime_pct": 90.1,
+        "n": 92,
+        "ontime_pct": 90.8,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 73.6,
-        "p_by_0900": 81.6
+        "good_trip_pct": 75.0,
+        "p_by_0900": 82.6
       },
       "Tue": {
-        "n": 85,
-        "ontime_pct": 89.3,
-        "arr_delay_median": 1.0,
-        "good_trip_pct": 78.8,
-        "p_by_0900": 88.2
+        "n": 89,
+        "ontime_pct": 89.9,
+        "arr_delay_median": 0.0,
+        "good_trip_pct": 79.8,
+        "p_by_0900": 88.8
       },
       "Wed": {
-        "n": 85,
-        "ontime_pct": 91.5,
+        "n": 89,
+        "ontime_pct": 90.7,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 76.5,
-        "p_by_0900": 83.5
+        "good_trip_pct": 76.4,
+        "p_by_0900": 84.3
       },
       "Thu": {
-        "n": 81,
-        "ontime_pct": 94.7,
+        "n": 85,
+        "ontime_pct": 95.0,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 88.9,
-        "p_by_0900": 93.8
+        "good_trip_pct": 89.4,
+        "p_by_0900": 94.1
       },
       "Fri": {
-        "n": 82,
-        "ontime_pct": 89.2,
+        "n": 86,
+        "ontime_pct": 89.7,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 80.5,
-        "p_by_0900": 90.2
+        "good_trip_pct": 81.4,
+        "p_by_0900": 90.7
       }
     },
     "07:51": {
       "Mon": {
-        "n": 75,
-        "ontime_pct": 85.9,
-        "arr_delay_median": 1.0,
-        "good_trip_pct": 73.3,
-        "p_by_0900": 85.3
-      },
-      "Tue": {
-        "n": 80,
-        "ontime_pct": 86.8,
-        "arr_delay_median": 1.0,
-        "good_trip_pct": 73.8,
-        "p_by_0900": 85.0
-      },
-      "Wed": {
         "n": 78,
-        "ontime_pct": 85.1,
+        "ontime_pct": 86.6,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 73.1,
+        "good_trip_pct": 74.4,
         "p_by_0900": 85.9
       },
-      "Thu": {
-        "n": 76,
-        "ontime_pct": 93.8,
+      "Tue": {
+        "n": 82,
+        "ontime_pct": 87.1,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 78.9,
-        "p_by_0900": 84.2
+        "good_trip_pct": 74.4,
+        "p_by_0900": 85.4
+      },
+      "Wed": {
+        "n": 80,
+        "ontime_pct": 85.5,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 73.8,
+        "p_by_0900": 86.2
+      },
+      "Thu": {
+        "n": 78,
+        "ontime_pct": 93.9,
+        "arr_delay_median": 1.0,
+        "good_trip_pct": 79.5,
+        "p_by_0900": 84.6
       },
       "Fri": {
-        "n": 75,
-        "ontime_pct": 91.2,
+        "n": 76,
+        "ontime_pct": 91.3,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 82.7,
-        "p_by_0900": 90.7
+        "good_trip_pct": 82.9,
+        "p_by_0900": 90.8
       }
     },
     "08:11": {
       "Mon": {
-        "n": 88,
-        "ontime_pct": 91.8,
+        "n": 94,
+        "ontime_pct": 91.0,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 76.1,
-        "p_by_0900": 80.7
+        "good_trip_pct": 75.5,
+        "p_by_0900": 80.9
       },
       "Tue": {
-        "n": 89,
-        "ontime_pct": 84.7,
+        "n": 93,
+        "ontime_pct": 84.2,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 68.5,
-        "p_by_0900": 77.5
+        "good_trip_pct": 68.8,
+        "p_by_0900": 78.5
       },
       "Wed": {
-        "n": 88,
-        "ontime_pct": 89.0,
+        "n": 92,
+        "ontime_pct": 88.3,
         "arr_delay_median": 1.0,
         "good_trip_pct": 73.9,
-        "p_by_0900": 80.7
+        "p_by_0900": 81.5
       },
       "Thu": {
-        "n": 83,
-        "ontime_pct": 84.9,
+        "n": 87,
+        "ontime_pct": 85.7,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 74.7,
-        "p_by_0900": 88.0
+        "good_trip_pct": 75.9,
+        "p_by_0900": 88.5
       },
       "Fri": {
-        "n": 84,
-        "ontime_pct": 91.3,
+        "n": 88,
+        "ontime_pct": 90.4,
         "arr_delay_median": 0.0,
         "good_trip_pct": 75.0,
-        "p_by_0900": 81.0
+        "p_by_0900": 81.8
       }
     },
     "08:21": {
       "Mon": {
-        "n": 74,
-        "ontime_pct": 60.0,
-        "arr_delay_median": 3.0,
-        "good_trip_pct": 44.6,
-        "p_by_0900": 47.3
-      },
-      "Tue": {
-        "n": 71,
+        "n": 79,
         "ontime_pct": 61.7,
         "arr_delay_median": 3.0,
-        "good_trip_pct": 52.1,
-        "p_by_0900": 53.5
+        "good_trip_pct": 46.8,
+        "p_by_0900": 49.4
+      },
+      "Tue": {
+        "n": 75,
+        "ontime_pct": 60.9,
+        "arr_delay_median": 3.0,
+        "good_trip_pct": 52.0,
+        "p_by_0900": 53.3
       },
       "Wed": {
-        "n": 74,
-        "ontime_pct": 69.4,
+        "n": 78,
+        "ontime_pct": 71.2,
         "arr_delay_median": 3.0,
-        "good_trip_pct": 58.1,
-        "p_by_0900": 56.8
+        "good_trip_pct": 60.3,
+        "p_by_0900": 59.0
       },
       "Thu": {
-        "n": 74,
-        "ontime_pct": 58.7,
+        "n": 78,
+        "ontime_pct": 59.7,
         "arr_delay_median": 3.0,
-        "good_trip_pct": 50.0,
-        "p_by_0900": 50.0
+        "good_trip_pct": 51.3,
+        "p_by_0900": 51.3
       },
       "Fri": {
-        "n": 73,
-        "ontime_pct": 79.4,
+        "n": 77,
+        "ontime_pct": 79.1,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 68.5,
-        "p_by_0900": 67.1
+        "good_trip_pct": 68.8,
+        "p_by_0900": 67.5
       }
     },
     "08:41": {
       "Mon": {
-        "n": 89,
-        "ontime_pct": 87.8,
+        "n": 94,
+        "ontime_pct": 88.6,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 73.0,
+        "good_trip_pct": 74.5,
         "p_by_0900": 0.0
       },
       "Tue": {
-        "n": 88,
-        "ontime_pct": 87.8,
-        "arr_delay_median": 0.5,
+        "n": 92,
+        "ontime_pct": 87.2,
+        "arr_delay_median": 1.0,
         "good_trip_pct": 73.9,
         "p_by_0900": 0.0
       },
       "Wed": {
-        "n": 87,
-        "ontime_pct": 89.9,
+        "n": 91,
+        "ontime_pct": 90.4,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 71.3,
+        "good_trip_pct": 72.5,
         "p_by_0900": 0.0
       },
       "Thu": {
-        "n": 86,
-        "ontime_pct": 88.2,
+        "n": 90,
+        "ontime_pct": 88.8,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 77.9,
+        "good_trip_pct": 78.9,
         "p_by_0900": 0.0
       },
       "Fri": {
-        "n": 81,
-        "ontime_pct": 97.3,
+        "n": 85,
+        "ontime_pct": 97.4,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 87.7,
+        "good_trip_pct": 88.2,
         "p_by_0900": 0.0
       }
     },
     "08:51": {
       "Mon": {
-        "n": 79,
-        "ontime_pct": 95.6,
+        "n": 82,
+        "ontime_pct": 95.8,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 82.3,
+        "good_trip_pct": 82.9,
         "p_by_0900": 0.0
       },
       "Tue": {
-        "n": 80,
-        "ontime_pct": 87.1,
+        "n": 82,
+        "ontime_pct": 87.5,
         "arr_delay_median": 1.0,
-        "good_trip_pct": 76.2,
+        "good_trip_pct": 76.8,
         "p_by_0900": 0.0
       },
       "Wed": {
-        "n": 79,
-        "ontime_pct": 92.5,
+        "n": 81,
+        "ontime_pct": 92.8,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 78.5,
+        "good_trip_pct": 79.0,
         "p_by_0900": 0.0
       },
       "Thu": {
-        "n": 78,
-        "ontime_pct": 91.4,
+        "n": 80,
+        "ontime_pct": 91.7,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 82.1,
+        "good_trip_pct": 82.5,
         "p_by_0900": 0.0
       },
       "Fri": {
-        "n": 77,
-        "ontime_pct": 85.9,
+        "n": 78,
+        "ontime_pct": 86.1,
         "arr_delay_median": 0.0,
-        "good_trip_pct": 79.2,
+        "good_trip_pct": 79.5,
         "p_by_0900": 0.0
       }
     }
@@ -971,37 +971,46 @@
       "good_trip_pct": 84.4,
       "severe_pct": 1.8,
       "no_show_pct": 8.9
+    },
+    {
+      "month": "2026-08",
+      "n": 272,
+      "ontime_pct": 87.1,
+      "arr_delay_median": 0.0,
+      "good_trip_pct": 84.2,
+      "severe_pct": 2.7,
+      "no_show_pct": 3.3
     }
   ],
   "weather": {
     "by_condition": [
       {
         "condition": "Clear/dry",
-        "n": 3037,
+        "n": 3170,
         "arr_delay_mean": 1.9,
         "ontime_pct": 90.3,
         "severe_pct": 2.6
       },
       {
         "condition": "Rain",
-        "n": 2051,
-        "arr_delay_mean": 1.7,
-        "ontime_pct": 89.7,
-        "severe_pct": 2.0
+        "n": 2164,
+        "arr_delay_mean": 1.8,
+        "ontime_pct": 89.3,
+        "severe_pct": 2.1
       },
       {
         "condition": "Heavy rain",
-        "n": 179,
-        "arr_delay_mean": 1.8,
-        "ontime_pct": 91.1,
-        "severe_pct": 2.8
+        "n": 195,
+        "arr_delay_mean": 1.7,
+        "ontime_pct": 91.3,
+        "severe_pct": 2.6
       },
       {
         "condition": "Storm gusts",
-        "n": 1423,
+        "n": 1481,
         "arr_delay_mean": 1.6,
-        "ontime_pct": 91.1,
-        "severe_pct": 2.3
+        "ontime_pct": 91.0,
+        "severe_pct": 2.2
       },
       {
         "condition": "Frost",
@@ -1012,15 +1021,15 @@
       },
       {
         "condition": "Fog",
-        "n": 840,
-        "arr_delay_mean": 2.3,
-        "ontime_pct": 85.6,
-        "severe_pct": 2.9
+        "n": 856,
+        "arr_delay_mean": 2.2,
+        "ontime_pct": 85.7,
+        "severe_pct": 2.8
       }
     ],
     "correlations": {
-      "wind_gust_ms": -0.032,
-      "precip_mm": -0.002,
+      "wind_gust_ms": -0.031,
+      "precip_mm": 0.004,
       "wind_mean_ms": -0.041
     }
   },
@@ -1051,53 +1060,53 @@
   "origin_effect": [
     {
       "label": "Originates at Rotterdam",
-      "n": 3210,
+      "n": 3302,
       "ontime_pct": 91.6,
       "arr_delay_median": 0.0,
       "severe_pct": 1.8,
-      "no_show_pct": 10.5,
-      "complete_cancel_pct": 8.8,
-      "good_trip_pct": 81.9,
-      "p_by_0900": 66.0
+      "no_show_pct": 10.4,
+      "complete_cancel_pct": 8.6,
+      "good_trip_pct": 82.0,
+      "p_by_0900": 66.4
     },
     {
       "label": "Passing through",
-      "n": 3183,
+      "n": 3363,
       "ontime_pct": 84.8,
       "arr_delay_median": 1.0,
       "severe_pct": 3.9,
-      "no_show_pct": 14.6,
-      "complete_cancel_pct": 5.2,
-      "good_trip_pct": 72.4,
-      "p_by_0900": 39.1
+      "no_show_pct": 13.9,
+      "complete_cancel_pct": 5.0,
+      "good_trip_pct": 73.0,
+      "p_by_0900": 39.5
     }
   ],
   "alternative": {
     "hsl": {
-      "n": 6393,
-      "ontime_pct": 88.3,
+      "n": 6665,
+      "ontime_pct": 88.2,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 5.0,
       "severe_pct": 2.8,
-      "no_show_pct": 12.6,
-      "good_trip_pct": 77.2,
-      "p_by_0900": 52.6,
+      "no_show_pct": 12.2,
+      "good_trip_pct": 77.5,
+      "p_by_0900": 52.8,
       "travel_min": 33.0,
       "n_intermediate": 1,
-      "originates_pct": 50.2
+      "originates_pct": 49.5
     },
     "classic": {
-      "n": 4968,
-      "ontime_pct": 90.9,
+      "n": 5214,
+      "ontime_pct": 90.8,
       "arr_delay_median": 0.0,
       "arr_delay_p90": 4.0,
-      "severe_pct": 1.3,
-      "no_show_pct": 13.9,
-      "good_trip_pct": 78.3,
-      "p_by_0900": 38.4,
+      "severe_pct": 1.5,
+      "no_show_pct": 14.1,
+      "good_trip_pct": 78.0,
+      "p_by_0900": 38.3,
       "travel_min": 60.0,
       "n_intermediate": 6,
-      "originates_pct": 39.6
+      "originates_pct": 39.9
     },
     "classic_available": true
   },
@@ -1109,15 +1118,15 @@
         "origin_name": "Rotterdam C.",
         "originates_at_rtd": 1,
         "planned_arr": "07:54",
-        "ontime_pct": 91.8,
-        "p_by_0900": 88.8,
-        "p_by_0915": 88.8,
+        "ontime_pct": 91.2,
+        "p_by_0900": 89.1,
+        "p_by_0915": 89.1,
         "arr_delay_median": 0.0,
         "arr_delay_p90": 4.0,
         "severe_pct": 2.0,
-        "no_show_pct": 11.2,
-        "good_trip_pct": 81.6,
-        "n": 385
+        "no_show_pct": 10.9,
+        "good_trip_pct": 81.3,
+        "n": 395
       },
       {
         "slot": "07:51",
@@ -1125,15 +1134,15 @@
         "origin_name": "Rotterdam C.",
         "originates_at_rtd": 1,
         "planned_arr": "08:24",
-        "ontime_pct": 88.5,
-        "p_by_0900": 86.2,
-        "p_by_0915": 86.2,
+        "ontime_pct": 88.9,
+        "p_by_0900": 86.5,
+        "p_by_0915": 86.5,
         "arr_delay_median": 1.0,
         "arr_delay_p90": 6.0,
-        "severe_pct": 3.6,
-        "no_show_pct": 13.8,
-        "good_trip_pct": 76.3,
-        "n": 384
+        "severe_pct": 3.5,
+        "no_show_pct": 13.5,
+        "good_trip_pct": 76.9,
+        "n": 394
       }
     ],
     "most_reliable": [
@@ -1143,31 +1152,15 @@
         "origin_name": "Rotterdam C.",
         "originates_at_rtd": 1,
         "planned_arr": "07:54",
-        "ontime_pct": 91.8,
-        "p_by_0900": 88.8,
-        "p_by_0915": 88.8,
+        "ontime_pct": 91.2,
+        "p_by_0900": 89.1,
+        "p_by_0915": 89.1,
         "arr_delay_median": 0.0,
         "arr_delay_p90": 4.0,
         "severe_pct": 2.0,
-        "no_show_pct": 11.2,
-        "good_trip_pct": 81.6,
-        "n": 385
-      },
-      {
-        "slot": "08:51",
-        "service_type": "Intercity direct",
-        "origin_name": "Rotterdam C.",
-        "originates_at_rtd": 1,
-        "planned_arr": "09:24",
-        "ontime_pct": 90.5,
-        "p_by_0900": 0.0,
-        "p_by_0915": 0.0,
-        "arr_delay_median": 0.0,
-        "arr_delay_p90": 4.0,
-        "severe_pct": 1.4,
-        "no_show_pct": 12.0,
-        "good_trip_pct": 79.6,
-        "n": 393
+        "no_show_pct": 10.9,
+        "good_trip_pct": 81.3,
+        "n": 395
       },
       {
         "slot": "07:41",
@@ -1175,15 +1168,31 @@
         "origin_name": "Breda",
         "originates_at_rtd": 0,
         "planned_arr": "08:14",
-        "ontime_pct": 91.0,
-        "p_by_0900": 87.4,
-        "p_by_0915": 87.4,
+        "ontime_pct": 91.2,
+        "p_by_0900": 88.0,
+        "p_by_0915": 88.0,
         "arr_delay_median": 0.0,
         "arr_delay_p90": 4.0,
-        "severe_pct": 2.5,
-        "no_show_pct": 12.6,
-        "good_trip_pct": 79.5,
-        "n": 420
+        "severe_pct": 2.3,
+        "no_show_pct": 12.0,
+        "good_trip_pct": 80.3,
+        "n": 441
+      },
+      {
+        "slot": "08:51",
+        "service_type": "Intercity direct",
+        "origin_name": "Rotterdam C.",
+        "originates_at_rtd": 1,
+        "planned_arr": "09:24",
+        "ontime_pct": 90.7,
+        "p_by_0900": 0.0,
+        "p_by_0915": 0.0,
+        "arr_delay_median": 0.0,
+        "arr_delay_p90": 4.0,
+        "severe_pct": 1.4,
+        "no_show_pct": 11.7,
+        "good_trip_pct": 80.1,
+        "n": 403
       }
     ],
     "seat_after9_ok": [
@@ -1193,15 +1202,15 @@
         "origin_name": "Rotterdam C.",
         "originates_at_rtd": 1,
         "planned_arr": "09:24",
-        "ontime_pct": 90.5,
+        "ontime_pct": 90.7,
         "p_by_0900": 0.0,
         "p_by_0915": 0.0,
         "arr_delay_median": 0.0,
         "arr_delay_p90": 4.0,
         "severe_pct": 1.4,
-        "no_show_pct": 12.0,
-        "good_trip_pct": 79.6,
-        "n": 393
+        "no_show_pct": 11.7,
+        "good_trip_pct": 80.1,
+        "n": 403
       }
     ],
     "avoid": [
@@ -1211,15 +1220,15 @@
         "origin_name": "Brussel-Zuid",
         "originates_at_rtd": 0,
         "planned_arr": "08:56",
-        "ontime_pct": 66.0,
-        "p_by_0900": 54.9,
-        "p_by_0915": 76.2,
+        "ontime_pct": 66.7,
+        "p_by_0900": 56.1,
+        "p_by_0915": 77.0,
         "arr_delay_median": 3.0,
-        "arr_delay_p90": 16.0,
-        "severe_pct": 10.6,
-        "no_show_pct": 17.2,
-        "good_trip_pct": 54.6,
-        "n": 366
+        "arr_delay_p90": 16.7,
+        "severe_pct": 10.8,
+        "no_show_pct": 16.3,
+        "good_trip_pct": 55.8,
+        "n": 387
       }
     ]
   },
